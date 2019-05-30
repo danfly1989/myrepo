@@ -1,3 +1,0 @@
-line1
-line3
-added one more line to the file
