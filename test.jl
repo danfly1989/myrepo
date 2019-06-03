@@ -16,9 +16,10 @@ function elementOccurrence(inputArray::Array, numbah::Int64)
 	counter=0;
 	
 	for i in inputArray
-		print(i)
-		print(i==numbah)
-		println();
+		i=parse(Int64,i)
+		if(i==numbah)
+			println("counted");
+		end
 	end
 	
 	#return counter;
