@@ -6,6 +6,7 @@ n = parse(Int64,input);
 
 #Let ar be the array of input integer
 ar = split(y);
+occurrences=[]
 
 
 
@@ -26,6 +27,6 @@ function elementOccurrence(inputArray::Array, numbah::Int64)
 	
 end
 
-for i in ar
-	elementOccurrence(ar,i)
+for i in 1:100
+	println(i," appears ",elementOccurrence(ar,i)," time(s)")
 end
