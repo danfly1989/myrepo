@@ -26,4 +26,6 @@ function elementOccurrence(inputArray::Array, numbah::Int64)
 	
 end
 
-elementOccurrence(ar, 2)
+for i in ar
+	elementOccurrence(ar,i)
+end
