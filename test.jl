@@ -12,14 +12,13 @@ ar = split(y);
 
 #count instances of number in an array
 
-function elementOccurrence(inputArray::Array, num::Int64)
+function elementOccurrence(inputArray::Array, numbah::Int64)
 	counter=0;
 	
 	for i in inputArray
-		if i==num
-			print(i)
-		end
-		
+		print(i)
+		print(i==numbah)
+		println();
 	end
 	
 	#return counter;
