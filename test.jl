@@ -7,3 +7,23 @@ n = parse(Int64,input);
 #Let ar be the array of input integer
 ar = split(y);
 
+
+
+
+#count instances of number in an array
+
+function elementOccurrence(inputArray, num)
+	counter=0;
+	
+	for i in inputArray
+		if i==i
+			print(i)
+		end
+		
+	end
+	
+	#return counter;
+	
+end
+
+elementOccurrence(ar, 2)
