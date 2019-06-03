@@ -12,11 +12,11 @@ ar = split(y);
 
 #count instances of number in an array
 
-function elementOccurrence(inputArray, num)
+function elementOccurrence(inputArray::Array, num::Int64)
 	counter=0;
 	
 	for i in inputArray
-		if i==i
+		if i==num
 			print(i)
 		end
 		
