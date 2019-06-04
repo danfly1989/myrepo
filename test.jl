@@ -8,7 +8,7 @@ n = parse(Int64,input);
 ar = split(y);
 occurrences=[]
 
-
+quanto=0;
 
 
 #count instances of number in an array
@@ -28,5 +28,7 @@ function elementOccurrence(inputArray::Array, numbah::Int64)
 end
 
 for i in 1:100
-	println(i," appears ",elementOccurrence(ar,i)," time(s)")
+	global quanto+=floor((elementOccurrence(ar,i))/2)
 end
+
+println(quanto);
