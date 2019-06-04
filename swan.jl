@@ -26,4 +26,4 @@ function elementOccurrence(inputArray, num)
 	
 end
 
-elementOccurrence(ar, 2)
+map(elementOccurrence,ar)
