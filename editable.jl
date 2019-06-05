@@ -27,8 +27,4 @@ function elementOccurrence(inputArray::Array, numbah::Int64)
 	
 end
 
-for i in 1:100
-	global quanto+=floor((elementOccurrence(ar,i))/2)
-end
-
-println(quanto);
+ar
