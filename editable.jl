@@ -28,3 +28,5 @@ function elementOccurrence(inputArray::Array, numbah::Int64)
 end
 
 ar
+
+#next step to check if elementOccurrence can be counted  through map
