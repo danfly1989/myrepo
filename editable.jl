@@ -11,6 +11,8 @@ occurrences=[]
 quanto=0;
 
 
+namelessArray= [1 2 3]
+
 #count instances of number in an array
 
 function elementOccurrence(inputArray::Array, numbah::Int64)
@@ -30,3 +32,11 @@ end
 ar
 
 #next step to check if elementOccurrence can be counted  through map
+#Redefine function interior
+
+for i in namelessArray
+		i=parse(Int64,i)
+		if(i==numbah)
+			counter+=1
+		end
+	end
