@@ -40,3 +40,5 @@ for i in namelessArray
 			counter+=1
 		end
 	end
+	
+#Such cannot be applied to elements
