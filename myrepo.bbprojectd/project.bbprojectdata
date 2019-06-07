@@ -40,11 +40,11 @@
 				AAAAAAAAENAAAAQAAAAAAAAAtAEAgNgBAAAAAAAA
 				</data>
 				<key>FileURL</key>
-				<string>file:///Users/dannyflynn/Desktop/swan.jl</string>
+				<string>file:///Users/dannyflynn/Documents/GitHub/myrepo/swan.jl</string>
 				<key>HasSecurityScope</key>
 				<true/>
 				<key>RelativePath</key>
-				<string>../../../Desktop/swan.jl</string>
+				<string>./swan.jl</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -56,52 +56,6 @@
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
 			<true/>
-		</dict>
-		<key>93FDDB81-A512-43A7-A42F-BCA346426285</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>BookmarkData</key>
-				<data>
-				Ym9va/QCAAAAAAQQMAAAAEewnKL1lTCyh1wI3F/sy8Bv
-				L/p6Thmfk/xQ3fQFaBzW5AEAAAQAAAADAwAAAAgAKAUA
-				AAABAQAAVXNlcnMAAAAKAAAAAQEAAGRhbm55Zmx5bm4A
-				AAcAAAABAQAARGVza3RvcAAHAAAAAQEAAHN3YW4uamwA
-				EAAAAAEGAAAQAAAAIAAAADQAAABEAAAACAAAAAQDAAB6
-				EgIAAAAAAAgAAAAEAwAATJ4LAAMAAAAIAAAABAMAAGKe
-				CwADAAAACAAAAAQDAACUhiYAAwAAABAAAAABBgAAbAAA
-				AHwAAACMAAAAnAAAAAgAAAAABAAAQcFRPwyVBOkYAAAA
-				AQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAE
-				AwAAAgAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZp
-				bGU6Ly8vCgAAAAEBAABUb3RhbFJlc2V0AAAIAAAABAMA
-				AABgfzMcAAAACAAAAAAEAABBwT7K8wAAACQAAAABAQAA
-				QTU1RTZFNzgtRjA1Ny0zRDNGLUJGM0YtOTk5NjM4NjU5
-				OEVCGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAA
-				AAABAAAAAQEAAC8AAAAAAAAAAQUAABoAAAABAQAATlNV
-				UkxEb2N1bWVudElkZW50aWZpZXJLZXkAAAQAAAADAwAA
-				DQAAANgAAAD+////AQAAAAAAAAARAAAABBAAAFQAAAAA
-				AAAABRAAAKwAAAAAAAAAEBAAANQAAAAAAAAAQBAAAMQA
-				AAAAAAAAAiAAAKABAAAAAAAABSAAABABAAAAAAAAECAA
-				ACABAAAAAAAAESAAAFQBAAAAAAAAEiAAADQBAAAAAAAA
-				EyAAAEQBAAAAAAAAICAAAIABAAAAAAAAMCAAAKwBAAAA
-				AAAAAcAAAPQAAAAAAAAAEcAAACAAAAAAAAAAEsAAAAQB
-				AAAAAAAAENAAAAQAAAAAAAAAtAEAgNgBAAAAAAAA
-				</data>
-				<key>FileURL</key>
-				<string>file:///Users/dannyflynn/Desktop/swan.jl</string>
-				<key>HasSecurityScope</key>
-				<true/>
-				<key>RelativePath</key>
-				<string>../../../Desktop/swan.jl</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>swan.jl</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
 		</dict>
 		<key>D62524EF-3ECC-43C5-B93E-9A28E3B8820A</key>
 		<dict>
