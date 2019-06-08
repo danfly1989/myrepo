@@ -17,33 +17,34 @@
 		<dict>
 			<key>BookmarkData</key>
 			<data>
-			Ym9vawwDAAAAAAQQMAAAACQfcBfvVVJ9wVqnfh5itHQhpx+I1QkF
-			lS60jgIkgQ10CAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMA
+			Ym9vaxADAAAAAAQQMAAAAN5PTEwQ4/P5+w5DCE1dYzt3dP2MRSe5
+			vf4VUEtJH4EWDAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMA
 			AAAKAAAAAQEAAGRhbm55Zmx5bm4AAAkAAAABAQAARG9jdW1lbnRz
-			AAAABgAAAAEBAABHaXRIdWIAAAYAAAABAQAAbXlyZXBvAAAHAAAA
-			AQEAAGp1anUuamwAGAAAAAEGAAAQAAAAIAAAADQAAABIAAAAWAAA
-			AGgAAAAIAAAABAMAAHoSAgAAAAAACAAAAAQDAABMngsAAwAAAAgA
-			AAAEAwAAWZ4LAAMAAAAIAAAABAMAAIhwIgADAAAACAAAAAQDAADJ
-			qCQAAwAAAAgAAAAEAwAADqkkAAMAAAAYAAAAAQYAAJgAAACoAAAA
-			uAAAAMgAAADYAAAA6AAAAAgAAAAABAAAQcFQJk4YQlsYAAAAAQIA
-			AAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABAAAAAAA
-			AAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vCgAAAAEBAABU
-			b3RhbFJlc2V0AAAIAAAABAMAAABgfzMcAAAACAAAAAAEAABBwT7K
-			8wAAACQAAAABAQAAQTU1RTZFNzgtRjA1Ny0zRDNGLUJGM0YtOTk5
-			NjM4NjU5OEVCGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAA
-			AAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQ
-			AAAABBAAAHgAAAAAAAAABRAAAPgAAAAAAAAAEBAAACgBAAAAAAAA
-			QBAAABgBAAAAAAAAAiAAAPQBAAAAAAAABSAAAGQBAAAAAAAAECAA
-			AHQBAAAAAAAAESAAAKgBAAAAAAAAEiAAAIgBAAAAAAAAEyAAAJgB
-			AAAAAAAAICAAANQBAAAAAAAAMCAAAAACAAAAAAAAAcAAAEgBAAAA
-			AAAAEcAAACAAAAAAAAAAEsAAAFgBAAAAAAAAENAAAAQAAAAAAAAA
+			AAAABgAAAAEBAABHaXRIdWIAAAYAAAABAQAAbXlyZXBvAAAJAAAA
+			AQEAAGFycmF5LnNqbAAAABgAAAABBgAAEAAAACAAAAA0AAAASAAA
+			AFgAAABoAAAACAAAAAQDAAB6EgIAAAAAAAgAAAAEAwAATJ4LAAMA
+			AAAIAAAABAMAAFmeCwADAAAACAAAAAQDAACIcCIAAwAAAAgAAAAE
+			AwAAyagkAAMAAAAIAAAABAMAAA6pJAADAAAAGAAAAAEGAACcAAAA
+			rAAAALwAAADMAAAA3AAAAOwAAAAIAAAAAAQAAEHBUCZOGEJbGAAA
+			AAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAQA
+			AAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwoAAAAB
+			AQAAVG90YWxSZXNldAAACAAAAAQDAAAAYH8zHAAAAAgAAAAABAAA
+			QcE+yvMAAAAkAAAAAQEAAEE1NUU2RTc4LUYwNTctM0QzRi1CRjNG
+			LTk5OTYzODY1OThFQhgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAA
+			AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAADMAAAA/v///wEAAAAA
+			AAAAEAAAAAQQAAB8AAAAAAAAAAUQAAD8AAAAAAAAABAQAAAsAQAA
+			AAAAAEAQAAAcAQAAAAAAAAIgAAD4AQAAAAAAAAUgAABoAQAAAAAA
+			ABAgAAB4AQAAAAAAABEgAACsAQAAAAAAABIgAACMAQAAAAAAABMg
+			AACcAQAAAAAAACAgAADYAQAAAAAAADAgAAAEAgAAAAAAAAHAAABM
+			AQAAAAAAABHAAAAgAAAAAAAAABLAAABcAQAAAAAAABDQAAAEAAAA
+			AAAAAA==
 			</data>
 			<key>FileURL</key>
-			<string>file:///Users/dannyflynn/Documents/GitHub/myrepo/juju.jl</string>
+			<string>file:///Users/dannyflynn/Documents/GitHub/myrepo/array.sjl</string>
 			<key>HasSecurityScope</key>
 			<true/>
 			<key>RelativePath</key>
-			<string>./juju.jl</string>
+			<string>./array.sjl</string>
 			<key>TypeID</key>
 			<string>_CFileLocator</string>
 			<key>Version</key>
@@ -173,7 +174,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:05:32Z</date>
+			<date>2019-06-08T13:06:27Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -215,7 +216,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:05:32Z</date>
+			<date>2019-06-08T13:06:27Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -259,7 +260,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:05:32Z</date>
+			<date>2019-06-08T13:06:27Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -303,7 +304,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:05:32Z</date>
+			<date>2019-06-08T13:06:27Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -347,7 +348,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:05:32Z</date>
+			<date>2019-06-08T13:06:27Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -391,7 +392,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:05:32Z</date>
+			<date>2019-06-08T13:06:27Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -435,7 +436,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:05:32Z</date>
+			<date>2019-06-08T13:06:27Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -489,6 +490,6 @@
 	<key>ViewSplitterPosition:dannyflynn</key>
 	<real>0.1988246887922287</real>
 	<key>WindowFrame:dannyflynn:displays([(0, 0), (1280, 800)])</key>
-	<string>rect(45,167,746,1188)</string>
+	<string>rect(194,725,895,1746)</string>
 </dict>
 </plist>
