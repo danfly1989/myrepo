@@ -17,6 +17,41 @@
 		<dict>
 			<key>BookmarkData</key>
 			<data>
+			Ym9vawwDAAAAAAQQMAAAACQfcBfvVVJ9wVqnfh5itHQhpx+I1QkF
+			lS60jgIkgQ10CAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMA
+			AAAKAAAAAQEAAGRhbm55Zmx5bm4AAAkAAAABAQAARG9jdW1lbnRz
+			AAAABgAAAAEBAABHaXRIdWIAAAYAAAABAQAAbXlyZXBvAAAHAAAA
+			AQEAAGp1anUuamwAGAAAAAEGAAAQAAAAIAAAADQAAABIAAAAWAAA
+			AGgAAAAIAAAABAMAAHoSAgAAAAAACAAAAAQDAABMngsAAwAAAAgA
+			AAAEAwAAWZ4LAAMAAAAIAAAABAMAAIhwIgADAAAACAAAAAQDAADJ
+			qCQAAwAAAAgAAAAEAwAADqkkAAMAAAAYAAAAAQYAAJgAAACoAAAA
+			uAAAAMgAAADYAAAA6AAAAAgAAAAABAAAQcFQJk4YQlsYAAAAAQIA
+			AAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABAAAAAAA
+			AAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vCgAAAAEBAABU
+			b3RhbFJlc2V0AAAIAAAABAMAAABgfzMcAAAACAAAAAAEAABBwT7K
+			8wAAACQAAAABAQAAQTU1RTZFNzgtRjA1Ny0zRDNGLUJGM0YtOTk5
+			NjM4NjU5OEVCGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAA
+			AAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQ
+			AAAABBAAAHgAAAAAAAAABRAAAPgAAAAAAAAAEBAAACgBAAAAAAAA
+			QBAAABgBAAAAAAAAAiAAAPQBAAAAAAAABSAAAGQBAAAAAAAAECAA
+			AHQBAAAAAAAAESAAAKgBAAAAAAAAEiAAAIgBAAAAAAAAEyAAAJgB
+			AAAAAAAAICAAANQBAAAAAAAAMCAAAAACAAAAAAAAAcAAAEgBAAAA
+			AAAAEcAAACAAAAAAAAAAEsAAAFgBAAAAAAAAENAAAAQAAAAAAAAA
+			</data>
+			<key>FileURL</key>
+			<string>file:///Users/dannyflynn/Documents/GitHub/myrepo/juju.jl</string>
+			<key>HasSecurityScope</key>
+			<true/>
+			<key>RelativePath</key>
+			<string>./juju.jl</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BookmarkData</key>
+			<data>
 			Ym9va0gDAAAAAAQQMAAAAPp1cSqWhXpiCSj1witaMLoOTE1ouYmA
 			IQtxZ1pLuvo/OAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
 			AAAKAAAAAQEAAGRhbm55Zmx5bm4AAAkAAAABAQAARG9jdW1lbnRz
@@ -138,7 +173,49 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:04:48Z</date>
+			<date>2019-06-08T13:05:32Z</date>
+			<key>Location</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vawwDAAAAAAQQMAAAACQfcBfvVVJ9wVqnfh5itHQh
+				px+I1QkFlS60jgIkgQ10CAIAAAQAAAADAwAAABgAKAUA
+				AAABAQAAVXNlcnMAAAAKAAAAAQEAAGRhbm55Zmx5bm4A
+				AAkAAAABAQAARG9jdW1lbnRzAAAABgAAAAEBAABHaXRI
+				dWIAAAYAAAABAQAAbXlyZXBvAAAHAAAAAQEAAGp1anUu
+				amwAGAAAAAEGAAAQAAAAIAAAADQAAABIAAAAWAAAAGgA
+				AAAIAAAABAMAAHoSAgAAAAAACAAAAAQDAABMngsAAwAA
+				AAgAAAAEAwAAWZ4LAAMAAAAIAAAABAMAAIhwIgADAAAA
+				CAAAAAQDAADJqCQAAwAAAAgAAAAEAwAADqkkAAMAAAAY
+				AAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAA6AAAAAgA
+				AAAABAAAQcFQJk4YQlsYAAAAAQIAAAEAAAAAAAAADwAA
+				AAAAAAAAAAAAAAAAAAgAAAAEAwAABAAAAAAAAAAEAAAA
+				AwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vCgAAAAEBAABU
+				b3RhbFJlc2V0AAAIAAAABAMAAABgfzMcAAAACAAAAAAE
+				AABBwT7K8wAAACQAAAABAQAAQTU1RTZFNzgtRjA1Ny0z
+				RDNGLUJGM0YtOTk5NjM4NjU5OEVCGAAAAAECAACBAAAA
+				AQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAA
+				AAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAHgA
+				AAAAAAAABRAAAPgAAAAAAAAAEBAAACgBAAAAAAAAQBAA
+				ABgBAAAAAAAAAiAAAPQBAAAAAAAABSAAAGQBAAAAAAAA
+				ECAAAHQBAAAAAAAAESAAAKgBAAAAAAAAEiAAAIgBAAAA
+				AAAAEyAAAJgBAAAAAAAAICAAANQBAAAAAAAAMCAAAAAC
+				AAAAAAAAAcAAAEgBAAAAAAAAEcAAACAAAAAAAAAAEsAA
+				AFgBAAAAAAAAENAAAAQAAAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/dannyflynn/Documents/GitHub/myrepo/juju.jl</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2019-06-08T13:05:32Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -182,7 +259,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:04:48Z</date>
+			<date>2019-06-08T13:05:32Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -226,7 +303,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:04:48Z</date>
+			<date>2019-06-08T13:05:32Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -270,7 +347,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:04:48Z</date>
+			<date>2019-06-08T13:05:32Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -314,7 +391,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:04:48Z</date>
+			<date>2019-06-08T13:05:32Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -358,7 +435,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:04:48Z</date>
+			<date>2019-06-08T13:05:32Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -412,6 +489,6 @@
 	<key>ViewSplitterPosition:dannyflynn</key>
 	<real>0.1988246887922287</real>
 	<key>WindowFrame:dannyflynn:displays([(0, 0), (1280, 800)])</key>
-	<string>rect(45,0,746,1021)</string>
+	<string>rect(45,167,746,1188)</string>
 </dict>
 </plist>
