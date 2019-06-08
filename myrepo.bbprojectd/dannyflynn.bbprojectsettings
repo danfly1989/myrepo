@@ -17,11 +17,11 @@
 		<dict>
 			<key>BookmarkData</key>
 			<data>
-			Ym9vaxADAAAAAAQQMAAAAN5PTEwQ4/P5+w5DCE1dYzt3dP2MRSe5
-			vf4VUEtJH4EWDAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMA
+			Ym9vaxADAAAAAAQQMAAAAKuyIMzucxgr8OzduFdN48XDXMFoKWlL
+			Dg+igqAYhSUDDAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMA
 			AAAKAAAAAQEAAGRhbm55Zmx5bm4AAAkAAAABAQAARG9jdW1lbnRz
 			AAAABgAAAAEBAABHaXRIdWIAAAYAAAABAQAAbXlyZXBvAAAJAAAA
-			AQEAAGFycmF5LnNqbAAAABgAAAABBgAAEAAAACAAAAA0AAAASAAA
+			AQEAAGFycmF5cy5qbAAAABgAAAABBgAAEAAAACAAAAA0AAAASAAA
 			AFgAAABoAAAACAAAAAQDAAB6EgIAAAAAAAgAAAAEAwAATJ4LAAMA
 			AAAIAAAABAMAAFmeCwADAAAACAAAAAQDAACIcCIAAwAAAAgAAAAE
 			AwAAyagkAAMAAAAIAAAABAMAAA6pJAADAAAAGAAAAAEGAACcAAAA
@@ -40,11 +40,11 @@
 			AAAAAA==
 			</data>
 			<key>FileURL</key>
-			<string>file:///Users/dannyflynn/Documents/GitHub/myrepo/array.sjl</string>
+			<string>file:///Users/dannyflynn/Documents/GitHub/myrepo/arrays.jl</string>
 			<key>HasSecurityScope</key>
 			<true/>
 			<key>RelativePath</key>
-			<string>./array.sjl</string>
+			<string>./arrays.jl</string>
 			<key>TypeID</key>
 			<string>_CFileLocator</string>
 			<key>Version</key>
@@ -174,7 +174,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:06:27Z</date>
+			<date>2019-06-08T13:09:24Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -216,7 +216,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:06:27Z</date>
+			<date>2019-06-08T13:09:24Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -260,7 +260,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:06:27Z</date>
+			<date>2019-06-08T13:09:24Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -304,7 +304,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:06:27Z</date>
+			<date>2019-06-08T13:09:24Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -348,7 +348,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:06:27Z</date>
+			<date>2019-06-08T13:09:24Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -392,7 +392,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:06:27Z</date>
+			<date>2019-06-08T13:09:24Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -436,7 +436,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-06-08T13:06:27Z</date>
+			<date>2019-06-08T13:09:24Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
