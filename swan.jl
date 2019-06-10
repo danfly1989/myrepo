@@ -23,4 +23,3 @@ function elementOccurrence(inputArray, num)
 	
 end
 
-map(elementOccurrence,ar)
