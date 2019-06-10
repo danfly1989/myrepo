@@ -1,3 +1,4 @@
+#Declare counter variable
 c=1;
 
 for i in 1:10
