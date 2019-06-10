@@ -8,9 +8,6 @@ n = parse(Int64,input);
 ar = split(y);
 counter =0;
 
-#sort the array
-sort(ar)
-
 
 
 #count instances of number in an array
