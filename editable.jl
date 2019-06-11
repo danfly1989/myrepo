@@ -19,6 +19,9 @@
 #find and print the number of valleys he walked through
 
 inputStepNumber=readline();
+inputStepSequence=readline();
+
+stepNum=parse(Int64,inputStepNumber)
 
 isAtSeaLevel=true
 isBelowSeaLevel=false
