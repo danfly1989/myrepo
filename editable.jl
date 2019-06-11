@@ -10,3 +10,7 @@
 #A mountain is a sequence of consecutive steps above sea level
 #starting with a step up from sea level
 #ending with a step down to sea level
+
+#A valley is a sequence of consecutive steps below sea level
+#starting with a step down from sea level
+#Ending with a step up to sea level
