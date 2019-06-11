@@ -21,3 +21,5 @@
 isAtSeaLevel=true
 isBelowSeaLevel=false
 isAboveSeaLevel=false
+
+seaLevel=0
