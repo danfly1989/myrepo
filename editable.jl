@@ -17,3 +17,6 @@
 
 #Given Gary's sequence of up and down steps during his hike
 #find and print the number of valleys he walked through
+
+isAtSeaLevel=true
+isBelowSeaLevel=false
