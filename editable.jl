@@ -52,15 +52,21 @@ function createCharArray(input)
 	##Declare zero array
 	counter =1;
 	
+	println("This is how a1 stand currently");
+	println(a1);
+	
 	for i in input
 		a1[counter]=i;
 	end
 	
-	return(a1);
+	println("Here are the values in a1");
+	print(a1[1])
+	print(a1[2])
+	print(a1[3])
+
 
 end
 
-createCharArray(inputStepSequence)
-
+createCharArray("Stringy")
 
 
