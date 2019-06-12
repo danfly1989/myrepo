@@ -46,4 +46,15 @@ currentLevel=0
 #print out Letter Array
 print(inputStepSequence);
 
+#Create character array from input string
+function createCharArray(input)
+	##Declare zero array
+	
+	
+	for i in input
+
+end
+
+
+
 
