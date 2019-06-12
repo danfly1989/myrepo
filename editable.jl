@@ -43,18 +43,24 @@ currentLevel=0
 
 #A valley begins when the value is below zero. It ends when the value reaches zero again
 
-#print out Letter Array
-print(inputStepSequence);
+
 
 #Create character array from input string
+a1 = zeros(Int32, stepNum)
+
 function createCharArray(input)
 	##Declare zero array
-	
+	counter =1;
 	
 	for i in input
+		a1[counter]=i;
+	end
+	
+	return(a1);
 
 end
 
+createCharArray(inputStepSequence)
 
 
 
