@@ -27,7 +27,7 @@ isAtSeaLevel=true
 isBelowSeaLevel=false
 isAboveSeaLevel=false
 
-seaLevel=0
+currentLevel=0
 
 #UDUUDUDDU
 
@@ -42,4 +42,8 @@ seaLevel=0
 #-1:0 Not a Valley
 
 #A valley begins when the value is below zero. It ends when the value reaches zero again
+
+#print out Letter Array
+System.out.print(inputStepSequence);
+
 
