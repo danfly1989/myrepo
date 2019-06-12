@@ -57,9 +57,9 @@ function createCharArray(input)
 	
 	for i in input
 		if (i=='D')
-			println("It is a D");counter=counter-1;println(counter);
+			#println("It is a D");counter=counter-1;println("counter is at",counter);
 		elseif(i=='U')
-			println("It is a U");counter=counter+1;println(counter);
+			#println("It is a U");counter=counter+1;println("counter is at ",counter);
 		else
 			#do nothing
 		end
