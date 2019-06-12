@@ -44,6 +44,6 @@ currentLevel=0
 #A valley begins when the value is below zero. It ends when the value reaches zero again
 
 #print out Letter Array
-System.out.print(inputStepSequence);
+print(inputStepSequence);
 
 
