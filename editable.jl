@@ -50,23 +50,28 @@ a1 = zeros(Int32, stepNum)
 
 function createCharArray(input)
 	##Declare zero array
-	counter =1;
+	counter =0;
 	
 	println("This is how a1 stand currently");
 	println(a1);
 	
 	for i in input
-		a1[counter]=i;
+		if (i=='D')
+			println("It is a D");counter=counter-1;println(counter);
+		elseif(i=='U')
+			println("It is a U");counter=counter+1;println(counter);
+		else
+			#do nothing
+		end
 	end
 	
-	println("Here are the values in a1");
-	print(a1[1])
-	print(a1[2])
-	print(a1[3])
+	#println("Here are the values in a1");
+	#print(a1[1])
+	#print(a1[2])
+	#print(a1[3])
 
 
 end
 
-createCharArray("Stringy")
-
+createCharArray(inputStepSequence)
 
