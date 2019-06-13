@@ -1,5 +1,3 @@
-#Hiking
-
 #Gary is an avid hiker
 #He tracks his hikes meticulously, paying close attention to small details like topography
 #During his last hike he too exactly n steps. 
