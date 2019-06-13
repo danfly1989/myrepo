@@ -1,1 +1,2 @@
-#Generic File Space
+#Counter begins at sea level
+counter = 0;
