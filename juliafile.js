@@ -17,6 +17,12 @@ if level>0
 
 function returnLevel
 
-return 0;
+if (5==4)
+	return 0;
+elseif (7==7)
+	return 5;
+else
+	return 9;
+
 
 end
