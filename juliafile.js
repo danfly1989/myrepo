@@ -13,3 +13,10 @@ if level<0
 
 if level>0
 	isAboveSeaLevel=true
+
+
+function returnLevel
+
+return 0;
+
+end
