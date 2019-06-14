@@ -59,8 +59,11 @@ function createCharArray(input)
 		elseif(i=='U')
 			println("It is a U");counter=counter+1;
 			#if reaches zero coming UP
-			if counter==0
-				println("It hit zero")
+			if (counter==0)
+				println("It hit zero from below")
+			else
+				#do nothing
+			end
 		else
 			#do nothing
 		end
