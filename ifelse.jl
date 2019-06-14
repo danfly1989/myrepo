@@ -1,4 +1,4 @@
-if (1==1)
+if (1==0)
 	println("1==0 reached");
 	if(2==2)
 		println("2==2 reached");
