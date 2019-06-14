@@ -6,6 +6,8 @@ if (1==0)
 		println("nested else reached");
 			if(9==9)
 				println("nested if");
+			else
+				println("nested else")
 			end
 	end
 else
