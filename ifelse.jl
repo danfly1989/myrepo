@@ -4,6 +4,9 @@ if (1==0)
 		println("2==2 reached");
 	else
 		println("nested else reached");
+			if(9==9)
+				println("nested if");
+			end
 	end
 else
 	return 1; 
