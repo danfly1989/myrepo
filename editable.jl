@@ -61,7 +61,7 @@ function createCharArray(input)
 			println("It is a U");counter=counter+1;
 			#if reaches zero coming UP
 			if (counter==0)
-				println("Counter hit zero from below. This means a valley has been formed")
+				println("Counter hit zero from below. This means a valley has been formed");
 			else
 				#do nothing
 			end
