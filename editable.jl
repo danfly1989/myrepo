@@ -59,7 +59,7 @@ function createCharArray(input)
 			#println("It is a U");
 			counter=counter+1;
 			#if reaches zero coming UP
-			if (global counter==0)
+			if (counter==0)
 				println("Counter hit zero from below. This means a valley has been formed");
 				valleyCounter=valleyCounter+1;
 				println("current valley counter value is ",valleyCounter);
