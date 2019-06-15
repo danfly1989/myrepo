@@ -52,6 +52,7 @@ function createCharArray(input)
 	
 	println("This is how a1 stand currently");
 	println(a1);
+	valleyCounter=0;
 	
 	for i in input
 		if (i=='D')
