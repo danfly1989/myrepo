@@ -56,9 +56,9 @@ function createCharArray(input)
 	
 	for i in input
 		if (i=='D')
-			println("It is a D");counter=counter-1;
+			#println("It is a D");counter=counter-1;
 		elseif(i=='U')
-			println("It is a U");counter=counter+1;
+			#println("It is a U");counter=counter+1;
 			#if reaches zero coming UP
 			if (counter==0)
 				println("Counter hit zero from below. This means a valley has been formed");
@@ -70,7 +70,7 @@ function createCharArray(input)
 		else
 			#do nothing
 		end
-	println("counter is at ",counter)
+	#println("counter is at ",counter)
 	end
 	
 	#println("Here are the values in a1");
