@@ -62,6 +62,7 @@ function createCharArray(input)
 			#if reaches zero coming UP
 			if (counter==0)
 				println("Counter hit zero from below. This means a valley has been formed");
+				valleyCounter=valleyCounter+1;
 				println("current valley counter value is ",valleyCounter);
 			else
 				#do nothing
