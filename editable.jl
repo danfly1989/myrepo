@@ -2,7 +2,7 @@
 #starting with a step down from sea level
 #Ending with a step up to sea level
 
-#Given Gary's sequence of up and down steps during his hike
+#Given a sequence of up and down steps during his hike
 #find and print the number of valleys he walked through
 
 inputStepNumber=readline();
