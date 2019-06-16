@@ -50,21 +50,20 @@ function createCharArray(input)
 	##Declare zero array
 	counter =0;
 	
-	println("This is how a1 stand currently");
-	println(a1);
 	valleyCounter=0;
 	
 	for i in input
 		if (i=='D')
-			println("It is a D");counter=counter-1;
+			#println("It is a D");
+			counter=counter-1;
 		elseif(i=='U')
-			println("It is a U");
+			#println("It is a U");
 			counter=counter+1;
 			#if reaches zero coming UP
 			if (counter==0)
-				println("Counter hit zero from below. This means a valley has been formed");
+				#println("Counter hit zero from below. This means a valley has been formed");
 				valleyCounter=valleyCounter+1;
-				println("current valley counter value is ",valleyCounter);
+				#println("current valley counter value is ",valleyCounter);
 			else
 				#do nothing
 			end
