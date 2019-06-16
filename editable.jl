@@ -16,17 +16,6 @@ isAboveSeaLevel=false
 
 currentLevel=0
 
-#UDUUDUDDU
-
-#0:0
-#+1:1
-#-1:0 Valley Complete
-#+1:1
-#+1:2
-#-1:1
-#+1:2
-#-1:1
-#-1:0 Not a Valley
 
 #A valley begins when the value is below zero. It ends when the value reaches zero again
 
