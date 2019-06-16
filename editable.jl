@@ -51,10 +51,6 @@ function createCharArray(input)
 	#println("counter is at ",counter)
 	end
 	
-	#println("Here are the values in a1");
-	#print(a1[1])
-	#print(a1[2])
-	#print(a1[3])
 
 
 end
