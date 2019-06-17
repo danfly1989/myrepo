@@ -1,7 +1,7 @@
 c=1;
 
-for i in 1:11
-	for j in 1:11
+for i in 1:5
+	for j in 1:5
 	
 		if c<11
 			print("  ",c)
