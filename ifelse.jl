@@ -1,5 +1,5 @@
 if (1==1)
-	println("1==1 reached");
+	println("1==0 reached");
 	if(2==0)
 		println("2==0 reached");
 	else
