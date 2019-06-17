@@ -1,9 +1,9 @@
 c=1;
 
-for i in 1:2
-	for j in 1:2
+for i in 1:10
+	for j in 1:10
 	
-		if c<2
+		if c<10
 			print("  ",c)
 			global c+=1
 	
