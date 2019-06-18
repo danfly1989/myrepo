@@ -11,6 +11,6 @@ if (1==1)
 			end
 	end
 else
-	return 1; 
+	return 0; 
 end
 #test
