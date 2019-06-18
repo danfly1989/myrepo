@@ -12,7 +12,7 @@ if (1==1)
 					if(4==4)
 						println("4==4 reached")
 					else
-						println("track invalid")
+						println("4==4 not reached")
 					end
 			end
 	end
