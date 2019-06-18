@@ -9,6 +9,11 @@ if (1==1)
 				println("nested if");
 			else
 				println("nested else")
+					if(4==4)
+						println("")
+					else
+						println("")
+					end
 			end
 	end
 else
