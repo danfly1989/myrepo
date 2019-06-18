@@ -1,7 +1,7 @@
 if (1==1)
 	println("1==0 reached");
-	if(2==0)
-		println("2==0 reached");
+	if(2==2)
+		println("2==2 reached");
 	else
 		println("nested else reached");
 			if(9==8)
