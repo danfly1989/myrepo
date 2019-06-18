@@ -10,9 +10,9 @@ if (1==1)
 			else
 				println("nested else")
 					if(4==4)
-						println("")
+						println("nested nested if under else")
 					else
-						println("")
+						println("nested nested else under else")
 					end
 			end
 	end
