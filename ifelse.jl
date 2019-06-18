@@ -10,7 +10,7 @@ if (1==1)
 			else
 				println("nested else")
 					if(4==4)
-						println("nested nested if under else")
+						println("4==4 reached")
 					else
 						println("nested nested else under else")
 					end
