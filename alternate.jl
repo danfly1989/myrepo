@@ -1,3 +1,4 @@
+#Alternate neat hundred square
 c=1;
 
 for i in 1:10
