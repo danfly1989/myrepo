@@ -1,59 +1,23 @@
-#A valley is a sequence of consecutive steps below sea level
-#starting with a step down from sea level
-#Ending with a step up to sea level
+#
 
-#Given a sequence of up and down steps during his hike
-#find and print the number of valleys he walked through
-
-inputStepNumber=readline();
-inputStepSequence=readline();
-
-stepNum=parse(Int64,inputStepNumber)
-
-isAtSeaLevel=true
-isBelowSeaLevel=false
-isAboveSeaLevel=false
-
-currentLevel=0
-
-
-#A valley begins when the value is below zero. It ends when the value reaches zero again
+Emma is playing a new mobile game that starts with consecutively numbered clouds. Some of the clouds are thunderheads and others are cumulus. She can jump on any cumulus cloud having a number that is equal to the number of the current cloud plus  or . She must avoid the thunderheads. Determine the minimum number of jumps it will take Emma to jump from her starting postion to the last cloud. It is always possible to win the game.
+For each game, Emma will get an array of clouds numbered  if they are safe or  if they must be avoided. For example,  indexed from . The number on each cloud is its index in the list so she must avoid the clouds at indexes  and . She could follow the following two paths:  or . The first path takes jumps while the second takes .
+Function Description
+Complete the jumpingOnClouds function in the editor below. It should return the minimum number of jumps required, as an integer.
+jumpingOnClouds has the following parameter(s):
+c: an array of binary integers
+Input Format
+The first line contains an integer , the total number of clouds. The second line contains  space-separated binary integers describing clouds  where .
+Constraints
 
 
 
-#Create character array from input string
-a1 = zeros(Int32, stepNum)
-
-function createCharArray(input)
-	##Declare zero array
-	counter =0;
-	
-	valleyCounter=0;
-	
-	for i in input
-		if (i=='D')
-			#println("It is a D");
-			counter=counter-1;
-		elseif(i=='U')
-			#println("It is a U");
-			counter=counter+1;
-			#if reaches zero coming UP
-			if (counter==0)
-				#println("Counter hit zero from below. This means a valley has been formed");
-				valleyCounter=valleyCounter+1;
-				println(valleyCounter);
-			else
-				#do nothing
-			end
-		else
-			#do nothing
-		end
-	#println("counter is at ",counter)
-	end
-	
-
-
-end
-
-createCharArray(inputStepSequence)
-
+Output Format
+Print the minimum number of jumps needed to win the game.
+Sample Input 0
+7
+0 0 1 0 0 1 0
+Sample Output 0
+4
+Explanation 0: 
+Emma must avoid  and . She can win the game with a minimum of  jumps:
