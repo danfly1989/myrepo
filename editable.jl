@@ -12,8 +12,9 @@
 #3jumpingOnClouds has the following parameter(s):
 #c: an array of binary integers
 #Input Format
-The first line contains an integer , the total number of clouds. The second line contains  space-separated binary integers describing clouds  where .
-Constraints
+#The first line contains an integer , the total number of clouds. The second line contains  
+#space-separated binary integers describing clouds  where .
+#Constraints
 
 
 
