@@ -23,6 +23,7 @@
 #Sample Input 0
 #7
 #0 0 1 0 0 1 0
+
 #Sample Output 0
 #4
 #Explanation 0: 
