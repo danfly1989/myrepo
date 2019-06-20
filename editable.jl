@@ -6,8 +6,9 @@
 #She could follow the following two paths:  or . The first path takes jumps while the second takes .
 
 #Function Description
-Complete the jumpingOnClouds function in the editor below. It should return the minimum number of jumps required, as an integer.
-jumpingOnClouds has the following parameter(s):
+#Complete the jumpingOnClouds function in the editor below. 
+#It should return the minimum number of jumps required, as an integer.
+3jumpingOnClouds has the following parameter(s):
 c: an array of binary integers
 Input Format
 The first line contains an integer , the total number of clouds. The second line contains  space-separated binary integers describing clouds  where .
