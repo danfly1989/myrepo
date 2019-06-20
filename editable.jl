@@ -5,7 +5,7 @@
 #For example,  indexed from . The number on each cloud is its index in the list so she must avoid the clouds at indexes  and . 
 #She could follow the following two paths:  or . The first path takes jumps while the second takes .
 
-Function Description
+#Function Description
 Complete the jumpingOnClouds function in the editor below. It should return the minimum number of jumps required, as an integer.
 jumpingOnClouds has the following parameter(s):
 c: an array of binary integers
