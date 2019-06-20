@@ -10,7 +10,7 @@
 #Complete the jumpingOnClouds function in the editor below. 
 #It should return the minimum number of jumps required, as an integer.
 #3jumpingOnClouds has the following parameter(s):
-c: an array of binary integers
+#c: an array of binary integers
 Input Format
 The first line contains an integer , the total number of clouds. The second line contains  space-separated binary integers describing clouds  where .
 Constraints
