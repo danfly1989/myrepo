@@ -18,12 +18,12 @@
 
 
 
-Output Format
-Print the minimum number of jumps needed to win the game.
-Sample Input 0
-7
-0 0 1 0 0 1 0
-Sample Output 0
-4
-Explanation 0: 
-Emma must avoid  and . She can win the game with a minimum of  jumps:
+#Output Format
+#Print the minimum number of jumps needed to win the game.
+#Sample Input 0
+#7
+#0 0 1 0 0 1 0
+#Sample Output 0
+#4
+#Explanation 0: 
+#Emma must avoid  and . She can win the game with a minimum of  jumps:
