@@ -7,3 +7,5 @@ input2=readline()
 for i in input2
 	println(i)
 end 
+
+#Create holder array
