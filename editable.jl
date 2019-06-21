@@ -29,8 +29,3 @@
 
 #Sample Output
 
-#4
-#Explanation 0: 
-#Emma must avoid  
-№and . 
-№She can win the game with a minimum of  jumps:
