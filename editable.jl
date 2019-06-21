@@ -22,11 +22,13 @@
 
 #Output Format
 #Print the minimum number of jumps needed to win the game.
+
 #Sample Input
 #7
 #0 0 1 0 0 1 0
 
 #Sample Output
+
 #4
 #Explanation 0: 
 #Emma must avoid  
