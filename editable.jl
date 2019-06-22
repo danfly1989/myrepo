@@ -14,7 +14,8 @@ a1 = zeros(Int32, 1,x);
 
 
 
-
+counter =0;
 for i in input2
-	println(i)
+	ai[counter]=i;
+	counter++;
 end
