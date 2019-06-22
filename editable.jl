@@ -1,5 +1,6 @@
 #Length of array
 input1 = readline()
+x = parse(Int32,input1)
 
 #Cloud index array
 input2=readline()
@@ -11,4 +12,3 @@ end
 #Create holder array
 a1 = zeros(Int32, 0,0)
 
-#
