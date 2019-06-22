@@ -10,5 +10,5 @@ for i in input2
 end 
 
 #Create holder array
-a1 = zeros(Int32, 0,0)
+a1 = zeros(Int32, x,x)
 
