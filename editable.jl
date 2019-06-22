@@ -10,7 +10,7 @@ for i in input2
 end 
 
 #Create holder array
-a1 = zeros(Int32, x,x);
+a1 = zeros(Int32, x,1);
 
 println(a1);
 
