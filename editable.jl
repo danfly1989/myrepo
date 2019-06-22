@@ -12,5 +12,6 @@ end
 #Create 1 dimensional holder array of length x
 a1 = zeros(Int32, 1,x);
 
-println(a1);
-
+for i in a1
+	println(i)
+end
