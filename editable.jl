@@ -6,7 +6,7 @@ x = parse(Int32,input1)
 input2=readline();
 
 for i in input2
-	println(i);
+	#println(i);
 end 
 
 #Create holder array
