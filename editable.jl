@@ -12,6 +12,9 @@ end
 #Create 1 dimensional holder array of length x
 a1 = zeros(Int32, 1,x);
 
-for i in a1
+
+
+
+for i in input2
 	println(i)
 end
