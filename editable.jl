@@ -14,7 +14,7 @@ a1 = zeros(Int32, 1,x);
 
 
 
-counter =0;
+counter =1;
 for i in input2
 	ai[1]=parse(Int32,i);
 	counter++;	
