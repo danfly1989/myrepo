@@ -18,5 +18,5 @@ counter =1;
 for i in input2
 	if (i==0||i==1)	
 		a1[counter]=i;
-		counter++;
+		global counter++;
 end
