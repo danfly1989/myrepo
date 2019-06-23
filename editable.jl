@@ -16,6 +16,6 @@ a1 = zeros(Int32, 1,x);
 
 counter =1;
 for i in input2
-	a1[1]=parse(Int32,i);
+	a1[counter]=parse(Int32,i);
 	global counter=counter+1;	
 end
