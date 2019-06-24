@@ -13,6 +13,10 @@ end
 a1 = zeros(Int32, 1,x);
 
 
+for i in input2
+	a1[0]=input2[0]
+end
+
 
 counter =1;
 for i in a1
