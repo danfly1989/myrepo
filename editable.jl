@@ -17,7 +17,6 @@ a1 = zeros(Int32, 1,x);
 counter =1;
 for i in input2
 	if (i==0||i==1)	
-		a1[counter]=i;
-		global counter++;
+		
 	end
 end
