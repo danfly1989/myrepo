@@ -17,6 +17,6 @@ a1 = zeros(Int32, 1,x);
 counter =1;
 for i in input2
 	if (i==0||i==1)	
-		
+		println("out");
 	end
 end
