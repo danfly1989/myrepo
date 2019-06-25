@@ -18,7 +18,6 @@ for i in input2
 	global counter =counter+1;
 end
 
-print(a1);
 
 
 for i in a1
