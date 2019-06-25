@@ -9,8 +9,8 @@ for i in input2
 	#println(i);
 end 
 
-#Create 1 dimensional holder array of length x+1
-a1 = zeros(Int32, 1,x+1);
+#Create 1 dimensional holder array of length x
+a1 = zeros(Int32, 1,x);
 
 counter =1;
 for i in input2
