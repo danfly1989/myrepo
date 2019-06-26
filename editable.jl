@@ -10,7 +10,7 @@ for i in input2
 end 
 
 
-
+#problematic array
 a1 = zeros(Int32, x,x);
 
 
