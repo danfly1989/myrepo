@@ -11,7 +11,7 @@ end
 
 #Create 1 dimensional holder array of length x
 #attempt to prevent higher index referencing
-a1 = zeros(Int32, 1,x+1);
+a1 = zeros(Int32, 1,x-2);
 
 
 
