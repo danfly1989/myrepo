@@ -12,7 +12,7 @@ end
 #Create 1 dimensional holder array of length x
 #dimensions are incorrect here
 #alternating dimensions also wrong
-a1 = zeros(Int32, x,1);
+a1 = zeros(Int32, x,x);
 
 
 
