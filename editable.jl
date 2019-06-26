@@ -17,7 +17,7 @@ a1 = zeros(Int32, x,x);
 
 counter =1;
 for i in input2
-	a1[counter]=input2[counter];
+	#a1[counter]=input2[counter];
 	global counter =counter+1;
 end
 
