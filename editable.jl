@@ -9,7 +9,6 @@ for i in input2
 	#println(i);
 end 
 
-#Create 1 dimensional holder array of length x
 
 
 a1 = zeros(Int32, x,x);
