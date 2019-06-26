@@ -10,7 +10,10 @@ for i in input2
 end 
 
 #Create 1 dimensional holder array of length x
-a1 = zeros(Int32, 1,x);
+#attempt to prevent higher index referencing
+a1 = zeros(Int32, 1,x+1);
+
+
 
 counter =1;
 for i in input2
