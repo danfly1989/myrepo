@@ -23,7 +23,7 @@ for i in input2
 end
 
 for i in a1
-	println (i);
+	println(i);
 end
 
 
