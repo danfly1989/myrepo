@@ -11,7 +11,7 @@ end
 
 
 #problematic array
-a1 = zeros(Int32, x,x);
+a1 = zeros(Int32, 1,x);
 
 
 
