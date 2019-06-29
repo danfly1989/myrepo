@@ -23,6 +23,7 @@ for i in input2
 end
 
 for i in input2
+	#print components of input2
 	println(i);
 end
 
