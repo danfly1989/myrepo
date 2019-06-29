@@ -23,7 +23,7 @@ for i in input2
 end
 
 for i in input2
-	print(i);
+	println(i);
 end
 
 
