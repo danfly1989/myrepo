@@ -29,7 +29,7 @@ end
 
 #this line is not working
 for i in a1
-	if (i==1)	
+	if (true)	
 		println("out");
 	end
 end
