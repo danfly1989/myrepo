@@ -27,7 +27,7 @@ for i in input2
 	println(i);
 end
 
-
+#this line is not working
 for i in a1
 	if (i==1)	
 		println("out");
