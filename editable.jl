@@ -30,6 +30,6 @@ end
 #this line is not working
 for i in a1
 	if (true)	
-		println("out");
+		println("a1 component");
 	end
 end
