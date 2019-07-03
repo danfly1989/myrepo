@@ -24,12 +24,9 @@ end
 
 for i in input2
 	#print components of input2
-	println(i);
-end
-
-#this line is not working
-for i in a1
-	if (true)	
-		println("a1 working");
+	if(true)
+		println(parse(Int32,i));
 	end
 end
+
+
