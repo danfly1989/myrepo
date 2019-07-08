@@ -25,8 +25,7 @@ end
 for i in input2
 	#print components of input2
 	if(true)
-		#spaces cannot be parsed
-		#println(parse(Int32,i));
+		#do nothing
 	end
 end
 
