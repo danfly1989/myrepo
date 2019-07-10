@@ -25,7 +25,7 @@ end
 for i in input2
 	#print components of input2
 	if(true)
-		println("testing");
+		println("out");
 	end
 end
 
