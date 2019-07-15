@@ -24,7 +24,7 @@ end
 
 for i in input2
 	#print components of input2
-	if(i==parse(Int64,"1"))
+	if(i=="1"))
 		println("out");
 	end
 end
