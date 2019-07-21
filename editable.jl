@@ -25,7 +25,7 @@ end
 for i in input2
 	#print components of input2
 	if(parse(Int32,i)==1)
-		println("out");
+		println("out.");
 	end
 end
 
