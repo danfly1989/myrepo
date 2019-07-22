@@ -23,9 +23,10 @@ for i in input2
 end
 
 for i in input2
-	#print components of input2
-	if(parse(Int32,i)==1)
-		println("out.");
+	c = parse(Int32,i); 
+	#test
+	if(c==1||c==2)
+		println(i);
 	end
 end
 
