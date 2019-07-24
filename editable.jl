@@ -25,7 +25,7 @@ end
 for i in input2
 	c = parse(Int32,i); 
 	#test
-	if(c==1||c==2)
+	if(c==1||c==2||c==3)
 		println(i);
 	end
 end
