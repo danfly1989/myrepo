@@ -1,3 +1,8 @@
+
+
+
+
+
 #Length of array
 input1 = readline();
 x = parse(Int32,input1)
@@ -11,7 +16,7 @@ end
 
 
 #problematic array
-a1 = zeros(Int32, x,1);
+arr= zeros(Int32, x,1);
 
 
 
@@ -30,6 +35,9 @@ for i in input2
 	else
 		println("Not a thundercloud");
 	end
+	
+	global arr[i]=c
+	
 end
 
 
