@@ -25,8 +25,10 @@ end
 for i in input2
 	c = parse(Int32,i); 
 	#test
-	if(c==1)
-		println(i);
+	if(c==0)
+		println("thundercloud");
+	else
+		println("Not a thundercloud");
 	end
 end
 
