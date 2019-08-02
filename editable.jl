@@ -38,8 +38,7 @@ for i in 1:x
 		println(jumpNum);
 		break;
 	end
-	
-	if (i<=(x-2))&&array[currentCloudIndex+2]==0
+	if (i<=(x-2))&&currentCloudIndex<x-1&&array[currentCloudIndex+2]==0
 		global currentCloudIndex;
 		#("move two clouds");
 		currentCloudIndex=currentCloudIndex+2;
@@ -49,7 +48,8 @@ for i in 1:x
 		currentCloudIndex=currentCloudIndex+1;
 		jumpNum=jumpNum+1;
 	else	
-		println("unable to move");
+		println("unable to win");
+		break;
 	end
 	
 	
