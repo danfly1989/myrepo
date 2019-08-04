@@ -1,3 +1,4 @@
+
 #Repeatable String
 
 subString= readline();
@@ -17,20 +18,20 @@ repeatString =subString^div
 
 
 
-for i in subString
-	global index = index+1;
-	if(i=='a')
-		push!(array,index)
-	end
-end
+#for i in subString
+	#global index = index+1;
+	#if(i=='a')
+		#push!(array,index)
+	#end
+#end
 
 
-for i in repeatString
-	global index2=index2+1;
-	if repeatString[index2]=='a'&&index2>N
-		global toRemove = toRemove+1;
-	end
-end
+#for i in repeatString
+	#global index2=index2+1;
+	#if repeatString[index2]=='a'&&index2>N
+		#global toRemove = toRemove+1;
+	#end
+#end
 
 
 AsInOneInstance =length(array);
