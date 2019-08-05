@@ -26,21 +26,28 @@ AsInOneInstance =length(array);
 
 
 
+
 #calculate A's to remove
 
 #the difference between N and complete substring
-difference = N-(long*div);
-println(difference);
+difference = abs(N-(long*div));
 
-if difference > 0
-	println("dnot all As are necessarily counted");
 
-elseif difference <0
-	println("trailing As must be removed");
 
+if N==(long*div)
+	#do nothing
+elseif N>long
+	for i in (long-(difference-1)):long
+		if(subString[i]=='a')
+			global toRemove = toRemove+1;
+		end
+	end
 else
-
+	for i in N+1:long
+		if(subString[i]=='a')
+			global toRemove = toRemove+1;
+		end
+	end
 end
 
-
-println(AsInOneInstance*div);
+println((AsInOneInstance*div)-toRemove);
