@@ -5,11 +5,15 @@ testCase = readline();
 
 for i in 1:length(initialArray)
 	if(initialArray[i]==testCase[i])
-		println("moved");
-	else
 		println("unmoved");
+	else
+		println("moved");
+		println(findfirst("a",testCase));
+
 		
-		#how many places did it move?
+		
+		
+	
 		
 	end
 end
