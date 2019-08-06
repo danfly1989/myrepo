@@ -1,12 +1,15 @@
 #minimum bribes
 
-a = readline();
-b = readline();
+initialArray = readline();
+testCase = readline();
 
-for i in 1:length(a)
-	if(a[i]==b[i])
+for i in 1:length(initialArray)
+	if(initialArray[i]==testCase[i])
 		println("moved");
 	else
 		println("unmoved");
+		
+		#how many places did it move?
+		
 	end
 end
