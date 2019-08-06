@@ -3,17 +3,16 @@
 initialArray = readline();
 testCase = readline();
 
-for i in 1:length(initialArray)
-	if(initialArray[i]==testCase[i])
-		println("unmoved");
-	else
-		println("moved");
-		println(findfirst("a",testCase));
+foo(initialArray[1], testCase);
 
-		
-		
-		
+function foo(element,test)
+	distance = 0;
+	string(element);
 	
-		
-	end
+	println(typeof(element));
+	
+	return distance;
 end
+
+
+
