@@ -3,16 +3,9 @@
 initialArray = readline();
 testCase = readline();
 
-foo(initialArray[1], testCase);
 
-function foo(element,test)
-	distance = 0;
-	string(element);
-	
-	println(typeof(element));
-	
-	return distance;
+#location at testCase
+
+def locateAtTest(String::a, String::b)
+	return 0;
 end
-
-
-
