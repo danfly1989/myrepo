@@ -1,11 +1,16 @@
-#minimum bribes
-
-initialArray = readline();
-testCase = readline();
+x = [1,0,1,1,0];
 
 
-#location at testCase
+for i in 1:4
+println(hasNext(x,i));
+end
 
-def locateAtTest(String::a, String::b)
-	return 0;
+function hasNext(array,i)
+	result = false;
+	if(array[i+1]==1)
+		result = true;
+	else
+		result = false;
+	end
+	return result;
 end
