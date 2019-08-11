@@ -5,13 +5,16 @@ for i in 1:5
 end
 
 
-disordered = [5,1,2,3,4]
+disordered = [1,2,5,3,7,8,6,4]
 
 counter=0;
 
 for i in 1:length(disordered)
-	n=disordered[i]-i
-	if(n>0)
-		println(n);
+	moves=disordered[i]-i
+	if(moves>0)
+		#println(moves);
+		global counter = counter+moves;
 	end
 end
+
+println(counter);
