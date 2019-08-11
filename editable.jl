@@ -1,16 +1,17 @@
-x = [1,0,1,1,0];
+array =[];
 
-
-for i in 1:4
-println(hasNext(x,i));
+for i in 1:5
+	push!(array,i);
 end
 
-function hasNext(array,i)
-	result = false;
-	if(array[i+1]==1)
-		result = true;
-	else
-		result = false;
+
+disordered = [5,1,2,3,4]
+
+counter=0;
+
+for i in 1:length(disordered)
+	n=disordered[i]-i
+	if(n>0)
+		println(n);
 	end
-	return result;
 end
