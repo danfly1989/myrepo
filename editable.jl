@@ -11,7 +11,7 @@ counter=0;
 
 for i in 1:length(disordered)
 	moves=disordered[i]-i
-	println(i," moves ",moves);
+	println("index ",i," is a number that has moved ",moves);
 	if(moves>0)
 		#println(moves);
 		global counter = counter+moves;
@@ -22,11 +22,26 @@ end
 
 #second phase
 
+println();
+
+println("Numbers that fell back are as follows");
+
 #find fallen numbers
 for i in 1:length(disordered)
 	if(i>disordered[i])
-		#println(disordered[i])
+		println(disordered[i])
 	end
 end
 
 #which fallen numbers moved back
+
+println();
+println("This section is experimental");
+#can you find out a number that moved forward again
+
+for i in 1:length(disordered)
+	if(i!=disordered[i]-i)
+		println(i);
+	end
+
+end
