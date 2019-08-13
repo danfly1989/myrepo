@@ -15,7 +15,7 @@ for i in 1:length(disordered)
 	if(moves>0)
 		#println(moves);
 		global counter = counter+moves;
-	else if(moves<-2)
+	elseif(moves<-2)
 		counter = counter+1;
 	else
 		#do nothing
@@ -33,7 +33,7 @@ println("Numbers that fell back are as follows");
 #find fallen numbers
 for i in 1:length(disordered)
 	if(i>disordered[i])
-		println(disordered[i])
+		println(disordered[i]," fell back ",i-disordered[i])
 	end
 end
 
