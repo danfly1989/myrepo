@@ -33,7 +33,7 @@ println("Numbers that fell back are as follows");
 #find fallen numbers
 for i in 1:length(disordered)
 	if(i>disordered[i])
-		println(disordered[i]," fell back ",i-disordered[i])
+		println(disordered[i]," was bribed at least ",i-disordered[i]," times")
 	end
 end
 
@@ -44,10 +44,9 @@ println("This section is experimental");
 #can you find out a number that moved forward again
 
 for i in 1:length(disordered)
-	if(i!=disordered[i]-i)
-		println(i);
+	if(i<disordered[i])
+		println(disordered[i]," bribed at least ",abs(i-disordered[i])," people")
 	end
-
 end
 
 #Perhaps try and see if you should increment the counter because of this outlier
