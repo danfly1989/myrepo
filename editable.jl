@@ -6,6 +6,8 @@ end
 
 
 disordered = [1,2,5,3,7,8,6,4]
+println("array is ",disordered);
+println();
 
 counter=0;
 
