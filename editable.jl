@@ -13,7 +13,16 @@ counter=0;
 
 for i in 1:length(disordered)
 	moves=disordered[i]-i
-	println("index ",i," is a number that has moved ",moves);
+	
+	if(moves>0)
+		println("",i+moves," has moved forward ",moves, " places");
+	elseif(moves<0)
+		println("",i+moves," has moved backward ",abs(moves), " places");
+	else
+		println(i+moves," remains at original position");
+	end
+	
+	
 	if(moves>0)
 		#println(moves);
 		global counter = counter+moves;
