@@ -1,0 +1,14 @@
+input = [5 1 2 3 7 8 6 4]
+
+inversionCounter = 0;
+
+
+    for i in 1:length(input)
+        for j in i+1:length(input)
+            if(input[j]<input[i])
+                inversionCounter = inversionCounter+1;
+            end
+        end
+    end
+
+    println(inversionCounter);    
