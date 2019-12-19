@@ -1,4 +1,4 @@
-#Given an array of n distance elements, find the minimum number of swaps required to sort the array
+#Given an array of n distance elements, find the minimum number of swaps required to sort the array.
 
 #Example
 #Input: {4,3,2,1}
