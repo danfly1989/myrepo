@@ -8,6 +8,7 @@ index = 0
 array =[]
 div = Int128(ceil(N/long))
 county = 0;
+#declarations
 toRemove = 0;
 index2 = 0;
 
