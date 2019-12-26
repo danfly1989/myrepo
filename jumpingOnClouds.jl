@@ -3,7 +3,7 @@
 
 
 
-#Length of array
+#Length of arr
 input1 = readline();
 x = parse(Int32,input1)
 
